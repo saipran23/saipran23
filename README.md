@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a full-stack developer focused on building scalable and well-structured applications, with a strong emphasis on backend architecture and modern UI design. I enjoy solving real-world problems through clean code and thoughtful design.<br><br>Currently working on Melix — an online blogging platform for everything, and developing my personal portfolio.
+I’m a full-stack developer focused on building scalable and well-structured applications, with a strong emphasis on backend architecture and modern UI design. I enjoy solving real-world problems through clean code and thoughtful design.<br>
 
 
 ## 🌐 Socials:
