@@ -1,17 +1,23 @@
 <div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Alchuri%20Sai%20Praneeth%20Reddy&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=⚡%20Full-Stack%20Developer%20%7C%20Backend%20Architect%20%7C%20Open%20to%20Internships%20⚡&descAlignY=58&descSize=15&descColor=a78bfa"/>
+
 </div>
+
 <div align="center">
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=🚀+Building+scalable+full-stack+applications;🎯+Backend+Architecture+%2B+Modern+UI+Design;💡+Java+%7C+Python+%7C+JavaScript+%7C+React+%7C+Node.js;🤝+Actively+seeking+Internships+%26+Opportunities;⚡+Turning+ideas+into+production-ready+code" alt="Typing SVG" />
+
 </div>
+
 <br/>
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alchuri-sai-praneeth-reddy/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:praneethalchuri@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/saipran23)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://github.com/saipran23)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/praneethalchui/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://saipraneethreddyalchuri.qzz.io/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saipran23)
 
 <br/>
@@ -34,7 +40,7 @@ const SaiPraneeth = {
   name       : "Alchuri Sai Praneeth Reddy",
   role       : "Full-Stack Developer",
   location   : "India 🇮🇳",
-  education  : "B.Tech — Computer Science",
+  education  : "B.Tech CSE — VIT-AP University",
   status     : "✅ Open to Internships & Full-Time",
 
   techStack  : {
@@ -109,16 +115,6 @@ const SaiPraneeth = {
 
 ---
 
-## 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=saipran23&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7"/>
-
-</div>
-
----
-
 ## 📈 Contribution Activity
 
 <div align="center">
@@ -181,6 +177,7 @@ const SaiPraneeth = {
 ### 💬 Let's connect and build something great together!
 
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alchuri-sai-praneeth-reddy/)
+[![Portfolio](https://img.shields.io/badge/Visit_My_Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://saipraneethreddyalchuri.qzz.io/)
 [![Gmail](https://img.shields.io/badge/Send_Me_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:praneethalchuri@gmail.com)
 
 <br/>
