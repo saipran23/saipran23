@@ -1,15 +1,9 @@
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Alchuri%20Sai%20Praneeth%20Reddy&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=⚡%20Full-Stack%20Developer%20%7C%20Backend%20Architect%20%7C%20Open%20to%20Internships%20⚡&descAlignY=58&descSize=15&descColor=a78bfa"/>
-
 </div>
-
 <div align="center">
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=🚀+Building+scalable+full-stack+applications;🎯+Backend+Architecture+%2B+Modern+UI+Design;💡+Java+%7C+Python+%7C+JavaScript+%7C+React+%7C+Node.js;🤝+Actively+seeking+Internships+%26+Opportunities;⚡+Turning+ideas+into+production-ready+code" alt="Typing SVG" />
-
 </div>
-
 <br/>
 
 <div align="center">
