@@ -33,7 +33,7 @@ const SaiPraneeth = {
   name       : "Alchuri Sai Praneeth Reddy",
   role       : "Full-Stack Developer",
   location   : "India 🇮🇳",
-  education  : "B.Tech CSE — VIT-AP University",
+  education  : "M.Tech (Integrated) CSE — VIT-AP University",
   status     : "✅ Open to Internships & Full-Time",
 
   techStack  : {
@@ -45,8 +45,6 @@ const SaiPraneeth = {
   },
 
   coreSkills : ["DSA", "OOP", "DBMS", "Computer Networks"],
-  currentFocus : "Building production-grade full-stack apps",
-  funFact    : "I write cleaner code after midnight 🌙",
 };
 ```
 
