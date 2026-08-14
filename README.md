@@ -189,47 +189,78 @@ interests:
 ---
 
 <!-- ════════════════════════════════════════════════════════════════════ -->
-<!--  GITHUB STATS — max 2 cards                                        -->
+<!--  GITHUB ACTIVITY — TERMINAL CODED AESTHETIC                        -->
 <!-- ════════════════════════════════════════════════════════════════════ -->
 
-## 📊 GitHub Activity
+## 💻 GitHub Activity
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=saipran23&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7c3aed&icon_color=7c3aed&text_color=C9D1D9&include_all_commits=true&count_private=true" alt="Sai Praneeth's GitHub statistics" />
-&nbsp;&nbsp;
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saipran23&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7c3aed&text_color=C9D1D9" alt="Most used programming languages" />
+```js
+// ── initialising github_reporter for @saipran23 ──────────────────────
+const profile = await github.fetchStats("saipran23");
+console.log(profile);
+```
 
 </div>
 
----
-
-<!-- ════════════════════════════════════════════════════════════════════ -->
-<!--  ANIMATED ACTIVITY GRAPH                                           -->
-<!-- ════════════════════════════════════════════════════════════════════ -->
-
-## 📈 Contribution Graph
-
+<!-- stat cards via github-readme-stats (reliable self-hostable service) -->
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=saipran23&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=7c3aed&line=7c3aed&point=a78bfa&area=true&area_color=7c3aed" alt="Contribution activity graph" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=saipran23&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9&ring_color=7c3aed&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub stats — Sai Praneeth Reddy" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saipran23&layout=donut-vertical&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=6" alt="Top languages used by Sai Praneeth" />
 
 </div>
 
----
+<br/>
 
-<!-- ════════════════════════════════════════════════════════════════════ -->
-<!--  CONTRIBUTION SNAKE ANIMATION                                      -->
-<!-- ════════════════════════════════════════════════════════════════════ -->
+<!-- ── STREAK STATS ──────────────────────────────────────────────────── -->
+<div align="center">
 
-## 🐍 Contribution Snake
+<img width="70%" src="https://streak-stats.demolab.com/?user=saipran23&theme=transparent&hide_border=true&background=0d1117&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=7c3aed&dates=6e7681&stroke=7c3aed&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="GitHub contribution streak" />
 
+</div>
+
+<br/>
+
+<!-- ── TERMINAL LABEL ─────────────────────────────────────────────────── -->
+<div align="center">
+
+```bash
+$ git log --author="saipran23" --oneline --graph --all
+# ─── contribution activity below ──────────────────────────
+```
+
+</div>
+
+<!-- ── CONTRIBUTION GRAPH ─────────────────────────────────────────────── -->
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=saipran23&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&area_color=3b0764&custom_title=saipran23%20—%20contribution%20timeline" alt="Contribution timeline graph" />
+
+</div>
+
+<br/>
+
+<!-- ── TERMINAL LABEL FOR SNAKE ──────────────────────────────────────── -->
+<div align="center">
+
+```python
+# ── snake.py — eating contribution squares since 2024 ────────────────
+import github
+snake = github.Snake(user="saipran23", palette="purple")
+snake.run()   # 🐍
+```
+
+</div>
+
+<!-- ── CONTRIBUTION SNAKE ─────────────────────────────────────────────── -->
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/saipran23/saipran23/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saipran23/saipran23/output/github-snake.svg" />
-  <img alt="Animated snake eating GitHub contributions" src="https://raw.githubusercontent.com/saipran23/saipran23/output/github-snake.svg" />
+  <img alt="Animated snake consuming GitHub contribution squares" src="https://raw.githubusercontent.com/saipran23/saipran23/output/github-snake.svg" />
 </picture>
 
 </div>
