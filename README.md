@@ -1,22 +1,29 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Alchuri%20Sai%20Praneeth%20Reddy&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=⚡%20Full-Stack%20Developer%20%7C%20Backend%20Architect%20%7C%20Open%20to%20Internships%20⚡&descAlignY=58&descSize=15&descColor=a78bfa"/>
-
-</div>
-<br/>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--   HERO                                                         -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alchuri-sai-praneeth-reddy/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:praneethalchuri@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/praneethalchui/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://saipraneethreddyalchuri.qzz.io/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saipran23)
+<!-- Typing SVG — Identity -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&width=600&height=60&lines=Sai+Praneeth+Reddy+Alchuri" alt="Name" />
+</a>
 
 <br/>
 
-![](https://komarev.com/ghpvc/?username=saipran23&color=a78bfa&style=for-the-badge&label=PROFILE+VIEWS)
-![](https://img.shields.io/github/followers/saipran23?color=a78bfa&style=for-the-badge&logo=github&label=FOLLOWERS)
+<!-- Rotating role line -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=1200&color=94A3B8&center=true&vCenter=true&width=600&height=40&lines=Full-Stack+Developer;Backend+Engineer;CS+Student+%40+VIT-AP;Building+real-world+software;Open+to+Internships+%E2%86%92+SDE+%2F+Backend" alt="Roles" />
+</a>
+
+<br/><br/>
+
+<!-- Social Links -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alchuri-sai-praneeth-reddy/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1a1a2e?style=flat-square&logo=vercel&logoColor=white)](https://saipraneethreddyalchuri.qzz.io/)
+[![Gmail](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:praneethalchuri@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/praneethalchui/)
+[![GitHub](https://img.shields.io/badge/GitHub-f0f0f0?style=flat-square&logo=github&logoColor=black)](https://github.com/saipran23)
 
 </div>
 
@@ -24,155 +31,269 @@
 
 ---
 
-<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--   TERMINAL INTRO                                               -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+```bash
+$ whoami
+  Alchuri Sai Praneeth Reddy
+
+$ cat role.txt
+  M.Tech Integrated CSE — VIT-AP University
+  Full-Stack Developer  ·  Backend Engineer
+
+$ cat status.txt
+  ✅ Open to Internships — SDE / Full-Stack / Backend
+
+$ ls skills/
+  Java  JavaScript  Python  React  Node.js  Express  PostgreSQL  MySQL
+```
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--   ABOUT                                                        -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 👨‍💻 About Me
 
-```typescript
-const SaiPraneeth = {
-  name       : "Alchuri Sai Praneeth Reddy",
-  role       : "Full-Stack Developer",
-  location   : "India 🇮🇳",
-  education  : "M.Tech (Integrated) CSE — VIT-AP University",
-  status     : "✅ Open to Internships & Full-Time",
+I build full-stack web applications — from database schema to deployed UI. My focus is on **clean architecture, real APIs, and maintainable code**. I care about writing software that actually works in production, not just on localhost.
 
-  techStack  : {
-    languages : ["Java", "Python", "JavaScript", "C"],
-    frontend  : ["React.js", "HTML5", "CSS3", "Bootstrap", "EJS"],
-    backend   : ["Node.js", "Express.js", "REST APIs"],
-    databases : ["PostgreSQL", "MySQL", "Supabase"],
-    tools     : ["Git", "GitHub", "Postman", "VS Code"],
-  },
+- 🎓 **M.Tech Integrated CSE** — VIT-AP University
+- 🔧 Currently deepening backend skills: system design, auth flows, query optimization
+- 🧩 CS fundamentals first: DSA, OOP, DBMS, Networks
+- 🌱 Exploring: Docker · Cloud deployment · Microservices
+- 📌 Actively seeking **SDE / Full-Stack / Backend internships**
 
-  coreSkills : ["DSA", "OOP", "DBMS", "Computer Networks"],
-};
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--   TECH STACK                                                   -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--   FEATURED PROJECTS                                            -->
+<!--   ⚠️  REPLACE with your actual project details below          -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 🚀 Featured Projects
+
+> Replace the placeholders below with your real project names, descriptions, and links.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📦 [Project Name One](https://github.com/saipran23/REPO-NAME)
+**Full-Stack Web Application**
+
+Short 1–2 sentence description of what the project does and the problem it solves.
+
+`React` `Node.js` `Express` `PostgreSQL`
+
+**Key features:**
+- 🔐 JWT Authentication & session management
+- 🌐 REST API with full CRUD operations
+- 🗄️ Normalized relational database schema
+- 📦 Deployed on [platform]
+
+</td>
+<td width="50%" valign="top">
+
+### 📦 [Project Name Two](https://github.com/saipran23/REPO-NAME)
+**Backend / API Project**
+
+Short 1–2 sentence description of what the project does and the problem it solves.
+
+`Node.js` `Express` `MySQL` `Postman`
+
+**Key features:**
+- ⚙️ RESTful API design with proper status codes
+- 🛡️ Input validation & error handling
+- 📊 Database relationships & joins
+- 📝 API documented with Postman
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📦 [Project Name Three](https://github.com/saipran23/REPO-NAME)
+**Frontend / UI Project**
+
+Short 1–2 sentence description of what the project does and the problem it solves.
+
+`React` `CSS3` `HTML5` `JavaScript`
+
+**Key features:**
+- 🎨 Responsive, mobile-first design
+- 🔄 Dynamic state management with React hooks
+- 🌐 API integration
+- 📱 Cross-browser compatible
+
+</td>
+<td width="50%" valign="top">
+
+### 📦 [Project Name Four](https://github.com/saipran23/REPO-NAME)
+**Data / Problem Solving**
+
+Short 1–2 sentence description of what the project does and the problem it solves.
+
+`Java` `Python` `DSA`
+
+**Key features:**
+- 🧩 Algorithm implementation
+- 🏗️ Clean OOP design patterns
+- 📈 Optimized time & space complexity
+- 📖 Well-documented code
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--   CURRENTLY BUILDING                                           -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## ⚒️ Currently Building
+
+```
+🔨  Project    →  [Your current project name — update this]
+🛠️  Stack      →  React + Node.js + PostgreSQL
+📍  Status     →  In active development
+🎯  Goal       →  Production-ready full-stack application
 ```
 
-<br clear="right"/>
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--   LEARNING                                                     -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 🌱 Currently Learning
+
+```
+→  System Design & Scalability Patterns
+→  Advanced DSA (Trees, Graphs, DP)
+→  Docker & Containerisation basics
+→  Cloud deployment (AWS / Render / Railway)
+→  TypeScript — migrating JS projects
+```
 
 ---
 
-## 🛠️ Tech Stack & Tools
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--   CS FUNDAMENTALS (no fake bars)                              -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 🧠 CS Foundations
 
 <div align="center">
 
-### 🔤 Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white)
-![EJS](https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=black)
-
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=61DAFB)
-![REST API](https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-### 🗄️ Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-### 🔧 Tools
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=saipran23&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&icon_color=a78bfa&text_color=C9D1D9&include_all_commits=true"/>
-<img height="180em" src="https://streak-stats.demolab.com/?user=saipran23&theme=tokyonight&hide_border=true&background=0D1117&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa&sideLabels=a78bfa"/>
-
-</div>
-
-<div align="center">
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saipran23&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&text_color=C9D1D9"/>
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=saipran23&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=a78bfa&line=a78bfa&point=ff6b6b&area=true&area_color=a78bfa"/>
-
-</div>
-
----
-
-## 🧠 Computer Science Fundamentals
-
-<div align="center">
-
-| 📚 Subject | 💪 Proficiency |
+| Subject | Notes |
 |:---|:---|
-| Data Structures & Algorithms | ████████░░ Strong |
-| Object Oriented Programming | █████████░ Strong |
-| Database Management Systems | ████████░░ Strong |
-| Computer Networks | ███████░░░ Intermediate |
-| Operating Systems | ███████░░░ Intermediate |
+| Data Structures & Algorithms | Active LeetCode practice · arrays, trees, graphs, DP |
+| Object Oriented Programming | Applied in Java projects — inheritance, encapsulation, polymorphism |
+| Database Management Systems | PostgreSQL/MySQL · normalization · joins · transactions |
+| Computer Networks | HTTP/HTTPS · REST principles · DNS · TCP/IP |
+| Operating Systems | Process management · memory · scheduling concepts |
 
 </div>
 
 ---
 
-## 🎯 What I'm Currently Up To
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--   GITHUB STATS — 2 cards maximum                              -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 📊 GitHub Activity
 
 <div align="center">
 
-```
-🔨  Building   →  Full-stack apps with React + Node.js + PostgreSQL
-📖  Learning   →  System Design & Advanced DSA patterns
-🏆  Grinding   →  LeetCode daily for problem-solving skills
-🤝  Seeking    →  Internships in SDE / Full-Stack / Backend roles
-🌐  Exploring  →  Cloud deployment & DevOps basics
-```
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=saipran23&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&icon_color=a78bfa&text_color=C9D1D9&include_all_commits=true&count_private=true" alt="GitHub stats for Sai Praneeth"/>
+&nbsp;
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saipran23&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&text_color=C9D1D9" alt="Most used languages"/>
 
 </div>
 
 ---
 
-## 💼 Why Hire Me?
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--   CONTRIBUTION SNAKE                                          -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 🐍 Contribution Graph
 
 <div align="center">
 
-| 🚀 | I ship end-to-end features — from database design to polished UI |
-|:---:|:---|
-| 🧩 | Strong foundation in DSA + CS fundamentals — I solve problems, not just write code |
-| 🤝 | Collaborative, fast learner who thrives in team environments |
-| 📦 | Experience with real-world tech stacks used in production |
-| 💡 | Passionate about writing clean, maintainable, and scalable code |
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/saipran23/saipran23/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saipran23/saipran23/output/github-snake.svg" />
+  <img alt="Animated contribution snake" src="https://raw.githubusercontent.com/saipran23/saipran23/output/github-snake.svg" />
+</picture>
 
 </div>
 
 ---
 
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--   CONTACT                                                      -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 📬 Let's Connect
+
+I'm actively looking for **internship opportunities** in software engineering.  
+If you're hiring or want to collaborate on a project, reach out:
+
 <div align="center">
 
-### 💬 Let's connect and build something great together!
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alchuri-sai-praneeth-reddy/)
+[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:praneethalchuri@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Visit_Portfolio-1a1a2e?style=for-the-badge&logo=vercel&logoColor=white)](https://saipraneethreddyalchuri.qzz.io/)
 
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alchuri-sai-praneeth-reddy/)
-[![Portfolio](https://img.shields.io/badge/Visit_My_Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://saipraneethreddyalchuri.qzz.io/)
-[![Gmail](https://img.shields.io/badge/Send_Me_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:praneethalchuri@gmail.com)
+</div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
-
+<div align="center">
+<sub>Built with intention · Updated regularly · Open to feedback</sub>
 </div>
