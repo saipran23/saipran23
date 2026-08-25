@@ -90,20 +90,6 @@ status   : ✅ Open to SDE / Backend Internships
 ---
 
 <!-- ╔══════════════════════════════════════════════════════════════════╗ -->
-<!--   ANIMATED TROPHIES                                                -->
-<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=saipran23&theme=dracula&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
 <!--   GITHUB STATS — 3-Card Grid                                       -->
 <!-- ╚══════════════════════════════════════════════════════════════════╝ -->
 
@@ -111,14 +97,14 @@ status   : ✅ Open to SDE / Backend Internships
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=saipran23&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9&ring_color=7c3aed&include_all_commits=true&count_private=true&rank_icon=github" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saipran23&layout=compact&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=saipran23&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9&ring_color=7c3aed&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=1800" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saipran23&layout=compact&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8&cache_seconds=1800" />
 
 </div>
 
 <div align="center">
 
-<img width="70%" src="https://streak-stats.demolab.com/?user=saipran23&theme=tokyonight-duo&hide_border=true&background=0d1117&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=7c3aed&dates=6e7681&stroke=7c3aed" />
+<img width="68%" src="https://github-readme-streak-stats.herokuapp.com/?user=saipran23&theme=tokyonight&hide_border=true&background=0d1117&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=7c3aed&dates=6e7681&stroke=7c3aed" />
 
 </div>
 
@@ -132,27 +118,9 @@ status   : ✅ Open to SDE / Backend Internships
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=saipran23&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&area_color=3b0764" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=saipran23&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&area_color=3b0764&hide_border=true&theme=tokyo-night" />
 
 </div>
-
----
-
-<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
-<!--   PROJECTS SHOWCASE                                                -->
-<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/saipran23">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=saipran23&repo=saipran23&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9" />
-</a>
-
-</div>
-
-> 💡 **Tip:** Star & fork projects you find useful!
 
 ---
 
@@ -209,20 +177,6 @@ status   : ✅ Open to SDE / Backend Internships
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saipran23/saipran23/output/github-snake.svg" />
   <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/saipran23/saipran23/output/github-snake-dark.svg" />
 </picture>
-
-</div>
-
----
-
-<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
-<!--   LEETCODE STATS                                                   -->
-<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
-
-## 🧩 LeetCode Progress
-
-<div align="center">
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/praneethalchui?theme=dark&font=Nunito&ext=heatmap)](https://leetcode.com/u/praneethalchui/)
 
 </div>
 
