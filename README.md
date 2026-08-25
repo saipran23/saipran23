@@ -1,302 +1,278 @@
-<!-- ════════════════════════════════════════════════════════════════════ -->
-<!--  HERO BANNER — animated capsule with custom gradient               -->
-<!-- ════════════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0f,30:1a0a2e,60:0d1b4b,100:0a2a1a&height=280&section=header&text=Sai%20Praneeth%20Reddy&fontSize=52&fontColor=e2e8f0&animation=fadeIn&fontAlignY=45&desc=Crafting%20software%20from%20first%20principles&descSize=17&descColor=7c3aed&descAlignY=65&stroke=7c3aed&strokeWidth=2" alt="Sai Praneeth Reddy — Full-Stack Developer" />
+<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
+<!--   HERO — Animated Capsule Banner                                   -->
+<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,50:7c3aed,100:4f46e5&height=320&section=header&text=Sai%20Praneeth%20Reddy&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20Backend%20Engineer%20%7C%20CS%20Student&descSize=18&descColor=ddd6fe&descAlignY=62&stroke=a78bfa&strokeWidth=2" />
 
 </div>
 
-<!-- ════════════════════════════════════════════════════════════════════ -->
-<!--  ANIMATED TYPING IDENTITY                                          -->
-<!-- ════════════════════════════════════════════════════════════════════ -->
+---
+
+<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
+<!--   ANIMATED TYPING BANNER                                           -->
+<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=7C3AED&center=true&vCenter=true&width=680&height=52&lines=Full-Stack+Developer+%F0%9F%9A%80;Backend+Engineer+%E2%9A%99%EF%B8%8F;CS+Student+%40+VIT-AP+University+%F0%9F%8E%93;Building+real-world+software+%F0%9F%94%A8;Open+to+SDE+Internships+%E2%9C%85;Always+Learning.+Always+Building." alt="Animated role display" />
-</a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=700&height=60&lines=%F0%9F%9A%80+Full-Stack+Developer;%E2%9A%99%EF%B8%8F+Backend+%26+API+Engineer;%F0%9F%8E%93+M.Tech+CSE+%40+VIT-AP+University;%F0%9F%94%A8+Building+from+First+Principles;%E2%9C%85+Open+to+SDE+Internships+2025)](https://git.io/typing-svg)
 
 </div>
 
 <br/>
 
-<!-- ════════════════════════════════════════════════════════════════════ -->
-<!--  SOCIAL BADGES                                                     -->
-<!-- ════════════════════════════════════════════════════════════════════ -->
+<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
+<!--   PROFILE VIEWS + SOCIAL BADGES                                    -->
+<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
 
+![Profile Views](https://komarev.com/ghpvc/?username=saipran23&label=Profile+Views&color=7c3aed&style=for-the-badge)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alchuri-sai-praneeth-reddy/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://saipraneethreddyalchuri.qzz.io/)
-[![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:praneethalchuri@gmail.com)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-7c3aed?style=for-the-badge)](https://saipraneethreddyalchuri.qzz.io/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:praneethalchuri@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/praneethalchui/)
 
 </div>
 
-<br/>
-
 ---
 
-<!-- ════════════════════════════════════════════════════════════════════ -->
-<!--  TERMINAL WHOAMI BLOCK                                             -->
-<!-- ════════════════════════════════════════════════════════════════════ -->
+<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
+<!--   ANIMATED GIF HEADER + ABOUT ME (2-col layout)                   -->
+<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
 
-<div align="center">
+<img align="right" alt="Coding GIF" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
 
-```bash
-╔══════════════════════════════════════════════════════════╗
-║  developer@vit-ap  ~                                     ║
-╠══════════════════════════════════════════════════════════╣
-║                                                          ║
-║  $ whoami                                                ║
-║  > Alchuri Sai Praneeth Reddy                            ║
-║                                                          ║
-║  $ cat degree.txt                                        ║
-║  > M.Tech Integrated CSE — VIT-AP University             ║
-║                                                          ║
-║  $ echo $FOCUS                                           ║
-║  > Full-Stack · Backend · APIs · Databases               ║
-║                                                          ║
-║  $ cat status.txt                                        ║
-║  > ✅ Open to SDE / Backend Internships                  ║
-║                                                          ║
-╚══════════════════════════════════════════════════════════╝
-```
-
-</div>
-
----
-
-<!-- ════════════════════════════════════════════════════════════════════ -->
-<!--  ABOUT ME — clean two-column                                       -->
-<!-- ════════════════════════════════════════════════════════════════════ -->
-
-<table>
-<tr>
-<td valign="top" width="55%">
-
-## 👨‍💻 About Me
-
-I build full-stack web applications — from relational database schemas to polished, deployed UIs. I care about **clean architecture**, **real APIs**, and **maintainable code** that actually works in production.
-
-- 🎓 M.Tech Integrated CSE — VIT-AP University
-- 🔧 Specialising in backend development & REST API design
-- 🧩 CS foundations: DSA · OOP · DBMS · Networks
-- 🌱 Currently exploring: Docker · Cloud · System Design
-- 📌 Seeking **SDE / Full-Stack / Backend internships**
-
-</td>
-<td valign="top" width="45%">
-
-## ⚡ Quick Facts
+### 👨‍💻 About Me
 
 ```yaml
-name     : Sai Praneeth Reddy
+name     : Alchuri Sai Praneeth Reddy
 location : India 🇮🇳
-edu      : M.Tech CSE @ VIT-AP
-stack    :
-  - Java & JavaScript
-  - Node.js + Express
-  - React
-  - PostgreSQL / MySQL
-interests:
-  - Backend Engineering
-  - System Design
-  - API Architecture
-  - DSA (LeetCode daily)
+degree   : M.Tech Integrated CSE — VIT-AP University
+focus    : Full-Stack · Backend · REST APIs · Databases
+status   : ✅ Open to SDE / Backend Internships
 ```
 
-</td>
-</tr>
-</table>
+- 🔧 Specialising in **backend engineering** and **REST API design**
+- 🧩 Strong CS foundations — **DSA · OOP · DBMS · Networks**
+- 🌱 Currently exploring: **Docker · Cloud · System Design**
+- 🏆 **LeetCode grinder** — trees, graphs, DP daily
+- 💡 I care about **clean architecture** and **production-ready code**
+- 📬 Reach me: **praneethalchuri@gmail.com**
+
+<br clear="right"/>
 
 ---
 
-<!-- ════════════════════════════════════════════════════════════════════ -->
-<!--  ANIMATED TECH STACK                                               -->
-<!-- ════════════════════════════════════════════════════════════════════ -->
+<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
+<!--   TECH STACK — Rich Icon Grid                                      -->
+<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Tools
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,js,python,c&theme=dark" alt="Languages: Java, JavaScript, Python, C" /><br/>
-<sub>Languages</sub>
+### 💻 Languages
+<img src="https://skillicons.dev/icons?i=java,js,ts,python,c&theme=dark&perline=5" />
 
-<br/><br/>
+### 🎨 Frontend
+<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,tailwind&theme=dark&perline=5" />
 
-<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap&theme=dark" alt="Frontend: React, HTML5, CSS3, Bootstrap" /><br/>
-<sub>Frontend</sub>
+### ⚙️ Backend & Databases
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,mongodb&theme=dark&perline=5" />
 
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql&theme=dark" alt="Backend & Databases: Node.js, Express, PostgreSQL, MySQL" /><br/>
-<sub>Backend & Databases</sub>
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode&theme=dark" alt="Tools: Git, GitHub, Postman, VS Code" /><br/>
-<sub>Tools</sub>
+### 🔧 Tools & DevOps
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,linux&theme=dark&perline=6" />
 
 </div>
 
 ---
 
-<!-- ════════════════════════════════════════════════════════════════════ -->
-<!--  CURRENTLY BUILDING & LEARNING                                     -->
-<!-- ════════════════════════════════════════════════════════════════════ -->
+<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
+<!--   ANIMATED TROPHIES                                                -->
+<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
 
-## ⚒️ Currently
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-```
-┌─────────────────────────────────────────────────────────┐
-│                                                         │
-│  🔨  Building  →  Full-stack app: React + Node + PG     │
-│  📖  Learning  →  System Design & Advanced DSA          │
-│  🏆  Grinding  →  LeetCode daily — trees, graphs, DP   │
-│  🌐  Exploring →  Docker · Cloud deployment · TS        │
-│  🎯  Seeking   →  SDE Internship — Backend / Full-Stack │
-│                                                         │
-└─────────────────────────────────────────────────────────┘
-```
+[![trophy](https://github-profile-trophy.vercel.app/?username=saipran23&theme=dracula&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 ---
 
-<!-- ════════════════════════════════════════════════════════════════════ -->
-<!--  CS FUNDAMENTALS                                                   -->
-<!-- ════════════════════════════════════════════════════════════════════ -->
+<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
+<!--   GITHUB STATS — 3-Card Grid                                       -->
+<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=saipran23&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9&ring_color=7c3aed&include_all_commits=true&count_private=true&rank_icon=github" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saipran23&layout=compact&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" />
+
+</div>
+
+<div align="center">
+
+<img width="70%" src="https://streak-stats.demolab.com/?user=saipran23&theme=tokyonight-duo&hide_border=true&background=0d1117&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=7c3aed&dates=6e7681&stroke=7c3aed" />
+
+</div>
+
+---
+
+<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
+<!--   CONTRIBUTION GRAPH                                               -->
+<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
+
+## 🗓️ Contribution Timeline
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=saipran23&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&area_color=3b0764" />
+
+</div>
+
+---
+
+<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
+<!--   PROJECTS SHOWCASE                                                -->
+<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/saipran23">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=saipran23&repo=saipran23&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9" />
+</a>
+
+</div>
+
+> 💡 **Tip:** Star & fork projects you find useful!
+
+---
+
+<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
+<!--   CS FOUNDATIONS TABLE                                             -->
+<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
 
 ## 🧠 CS Foundations
 
 <div align="center">
 
-| Subject | Applied In |
+| 🎯 Subject | 🔬 Applied In |
 |:---|:---|
-| Data Structures & Algorithms | LeetCode daily · interview prep · algorithm design |
-| Object Oriented Programming | Java projects · class hierarchies · design patterns |
-| Database Management Systems | PostgreSQL · MySQL · normalization · joins · queries |
-| Computer Networks | HTTP/REST · API design · TCP/IP fundamentals |
-| Operating Systems | Process management · memory · concurrency concepts |
+| **Data Structures & Algorithms** | LeetCode daily · interview prep · algorithm design |
+| **Object Oriented Programming** | Java projects · class hierarchies · design patterns |
+| **Database Management Systems** | PostgreSQL · MySQL · normalization · joins · queries |
+| **Computer Networks** | HTTP/REST · API design · TCP/IP fundamentals |
+| **Operating Systems** | Process management · memory · concurrency concepts |
 
 </div>
 
 ---
 
-<!-- ════════════════════════════════════════════════════════════════════ -->
-<!--  GITHUB ACTIVITY — TERMINAL CODED AESTHETIC                        -->
-<!-- ════════════════════════════════════════════════════════════════════ -->
+<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
+<!--   CURRENTLY BUILDING                                               -->
+<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
 
-## 💻 GitHub Activity
+## ⚒️ What I'm Up To
 
 <div align="center">
 
-```js
-// ── initialising github_reporter for @saipran23 ──────────────────────
-const profile = await github.fetchStats("saipran23");
-console.log(profile);
-```
+| Status | Task |
+|:---:|:---|
+| 🔨 **Building** | Full-stack app: React + Node.js + PostgreSQL |
+| 📖 **Learning** | System Design & Advanced DSA |
+| 🏆 **Grinding** | LeetCode daily — Trees · Graphs · DP |
+| 🌐 **Exploring** | Docker · Cloud Deployment · TypeScript |
+| 🎯 **Seeking** | SDE Internship — Backend / Full-Stack |
 
 </div>
 
-<!-- stat cards via github-readme-stats (reliable self-hostable service) -->
-<div align="center">
+---
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=saipran23&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9&ring_color=7c3aed&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub stats — Sai Praneeth Reddy" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saipran23&layout=donut-vertical&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=6" alt="Top languages used by Sai Praneeth" />
+<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
+<!--   CONTRIBUTION SNAKE                                               -->
+<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
 
-</div>
+## 🐍 Contribution Snake
 
-<br/>
-
-<!-- ── STREAK STATS ──────────────────────────────────────────────────── -->
-<div align="center">
-
-<img width="70%" src="https://streak-stats.demolab.com/?user=saipran23&theme=transparent&hide_border=true&background=0d1117&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=7c3aed&dates=6e7681&stroke=7c3aed&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="GitHub contribution streak" />
-
-</div>
-
-<br/>
-
-<!-- ── TERMINAL LABEL ─────────────────────────────────────────────────── -->
-<div align="center">
-
-```bash
-$ git log --author="saipran23" --oneline --graph --all
-# ─── contribution activity below ──────────────────────────
-```
-
-</div>
-
-<!-- ── CONTRIBUTION GRAPH ─────────────────────────────────────────────── -->
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=saipran23&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&area_color=3b0764&custom_title=saipran23%20—%20contribution%20timeline" alt="Contribution timeline graph" />
-
-</div>
-
-<br/>
-
-<!-- ── TERMINAL LABEL FOR SNAKE ──────────────────────────────────────── -->
-<div align="center">
-
-```python
-# ── snake.py — eating contribution squares since 2024 ────────────────
-import github
-snake = github.Snake(user="saipran23", palette="purple")
-snake.run()   # 🐍
-```
-
-</div>
-
-<!-- ── CONTRIBUTION SNAKE ─────────────────────────────────────────────── -->
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/saipran23/saipran23/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saipran23/saipran23/output/github-snake.svg" />
-  <img alt="Animated snake consuming GitHub contribution squares" src="https://raw.githubusercontent.com/saipran23/saipran23/output/github-snake.svg" />
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/saipran23/saipran23/output/github-snake-dark.svg" />
 </picture>
 
 </div>
 
 ---
 
-<!-- ════════════════════════════════════════════════════════════════════ -->
-<!--  CONTACT                                                           -->
-<!-- ════════════════════════════════════════════════════════════════════ -->
+<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
+<!--   LEETCODE STATS                                                   -->
+<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
 
-## 📬 Let's Connect
+## 🧩 LeetCode Progress
+
+<div align="center">
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/praneethalchui?theme=dark&font=Nunito&ext=heatmap)](https://leetcode.com/u/praneethalchui/)
+
+</div>
+
+---
+
+<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
+<!--   CONTACT                                                          -->
+<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
+
+## 📬 Let's Connect!
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/alchuri-sai-praneeth-reddy/">
-  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
 <a href="mailto:praneethalchuri@gmail.com">
-  <img src="https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 &nbsp;
 <a href="https://saipraneethreddyalchuri.qzz.io/">
-  <img src="https://img.shields.io/badge/Visit_Portfolio-7c3aed?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  <img src="https://img.shields.io/badge/Visit_Portfolio-7c3aed?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://leetcode.com/u/praneethalchui/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 
 </div>
 
 <br/>
 
-<!-- ════════════════════════════════════════════════════════════════════ -->
-<!--  FOOTER WAVE                                                       -->
-<!-- ════════════════════════════════════════════════════════════════════ -->
+<div align="center">
+
+### 💬 Random Dev Quote
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
+<!--   FOOTER WAVE                                                      -->
+<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a2a1a,50:1a0a2e,100:0a0a0f&height=120&section=footer&animation=fadeIn" alt="Footer wave" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,50:7c3aed,100:6d28d9&height=130&section=footer&animation=fadeIn" />
+
+<sub>⭐ If you liked my profile, consider starring my repos! Made with 💜 by Sai Praneeth Reddy</sub>
 
 </div>
